@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "Test Threat Model",
+    "owner": "Azunna Ikonne",
+    "description": "Test Threat model"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Model1",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Azunna Ikonne"
+  }
+}
